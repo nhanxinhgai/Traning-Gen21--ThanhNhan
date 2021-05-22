@@ -1,0 +1,74 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "img": "https://phonglanrung.com/wp-content/uploads/2020/08/long-tu-lao-845-2-600x600.png ",
+      "name": "Lan kiếm vàng",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "500.000 đ"
+    },
+    {
+      "name": "Lan hồ điệp",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "500.000 đ",
+      "img": "https://cayvahoa.net/wp-content/uploads/2016/04/H%E1%BB%92-%C4%90I%E1%BB%86P-T%C3%8DM-12-C%C3%80NH.jpg",
+      "id": 2
+    },
+    {
+      "name": "Lan rừng hồng",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "1.100.000 đ",
+      "img": "https://image-us.eva.vn/upload/3-2020/images/2020-07-14/lan-rung-co-nhung-loai-nao-va-cach-trong-cham-soc-chuan-nhat-lan-r---ng-1-1594719388-434-width700height420.jpg",
+      "id": 3
+    },
+    {
+      "name": "Lan phi điệp",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "899.000 đ",
+      "img": "https://file.hstatic.net/1000273748/article/phan-bon-cho-hoa-lan-anh-bia_2e03443dcea240bc9c8673835a3792fa_933effe19ae04936b248e10eca400206_1024x1024.jpg",
+      "id": 4
+    },
+    {
+      "name": "Lan quế tím",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "599.000 đ",
+      "img": "https://tuoithongminh.com/uploads/tintuc/Hoa%20lan%20%C4%91%E1%BA%B9p/hoa-lan-2.jpg",
+      "id": 5
+    },
+    {
+      "name": "Lan phượng vĩ đỏ",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "1.000.000 đ",
+      "img": "https://vn-live-01.slatic.net/p/b2d8418322db52d8c8fdbae45b3c9c58.png",
+      "id": 6
+    },
+    {
+      "name": "Lan rừng",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "1.300.000 đ",
+      "img": "https://tinnhavuon.com/wp-content/uploads/2018/06/lan-kieu-tim.jpg",
+      "id": 7
+    },
+    {
+      "name": "Lan hồ điệp",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "700.000 đ",
+      "img": "https://file.hstatic.net/1000269461/file/hoa-lan-ngoc-diem_1d60753fa7774f69bb64158abd3d3e3a_grande.jpg",
+      "id": 8
+    },
+    {
+      "name": "Lan điệp vàng",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "690.000 đ",
+      "img": "https://image.baonghean.vn/w607/Uploaded/2020/ftmztbtgonzm/2018_12_05/lan-ho%C3%A0ng-th%E1%BA%A3o-tam-%C4%91%E1%BA%A3o.jpg",
+      "id": 9
+    },
+    {
+      "name": "Lan mặt quỷ",
+      "des" : "Lan hàng xịn , éo nói nhiều đến cửa hàng xem kĩ nha, bla blo bli bhi ,lan rừng , lan nhập khẩu xin mời đến xem",
+      "price": "1.100.000 đ",
+      "img": "http://imgs.vietnamnet.vn/Images/vnn/2013/05/06/15/20130506153527-anh2--small-.jpg",
+      "id": 10
+    }
+  ]
+}
